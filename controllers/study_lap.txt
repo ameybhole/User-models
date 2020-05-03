@@ -1,0 +1,10 @@
+study
+homework
+assignment
+university
+research
+school
+lecture
+tutorial
+notes
+student

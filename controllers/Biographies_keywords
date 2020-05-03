@@ -1,0 +1,51 @@
+  &  Actors & Actresses	actor, actors, actress, actresses
+  &  Entertainers Comedians	comedy, comedian, comedians
+  &  Composers & Musicians Punk Rock	punk rock, punk rocker
+  &  Composers & Musicians Rap & Hip-Hop	rap, rapper, hip-hop, hip hop
+  &  Movie Directors	film director, cinema director, movie director, motion picture director
+  &  Africa	africa, african
+  &  Asia	asia, asian
+  &  Canada	canada, canadian
+  &  Europe France	france, french
+  &     Europe General	europe, european
+  &     Europe Germany	germany, german
+  &     Europe Greece	greece, greek
+  &     Europe Ireland	ireland, irish, celtic
+  &     Europe Italy & Rome	italy, italian, rome, roman
+  &     Europe Russia	russia, russian
+  &     Europe Spain & Portugal	spain, spanish, portugal, portuguese
+  &     Latin America	latin america, latin american, mexico, mexican, south america, south american
+  &     Middle East	middle east, middle eastern, egypt, egyptian, iran, iranian, iraq, iraqi, israel, israeli, palestine, palestinian, syria, syrian, turkey, ottoman
+  &       & Wars Afghan & Iraq Wars Afghan War	afghan war
+  &       & Wars Afghan & Iraq Wars Iraq War	iraq war
+  &       & Wars American Civil War	civil war
+  &       & Wars American Revolution	american revolution, american revolution war
+  &       & Wars Branches Air Force	air force
+  &       & Wars Branches Army	army
+  &       & Wars Branches Marines	marine, marines
+  &       & Wars Branches Navy	navy
+  &       & Wars Cold War	cold war
+  &       & Wars Vietnam War	vietnam war
+  &       & Wars World War I	world war 1, world war I, WW1
+  &       & Wars World War II	world war 2, world war II, WW2
+  &     &   People Presidents & Heads of State British Prime Ministers	united kingdom prime minister, UK prime minister, U.K. prime minister, british prime minister, great britain prime minister
+  &     &   People Presidents & Heads of State US Presidents	united states president, US president, U.S. president, american president
+  &     &   People Religious Buddhism	buddhist, buddhism
+  &     &   People Religious Catholicism	catholic, catholicism
+  &     &   People Religious Christianity
+christian, christianity
+  &     &   People Religious Hinduism
+hindu, hinduism
+  &     &   People Religious Islam
+islam, islamic, islamist
+  &     &   People Religious Judaism	judaism
+  &     &   Baseball [alias]	baseball
+  &     &   Basketball [alias]	basketball
+  &     &   Boxing [alias]	box, boxing
+  &     &   Football [alias]	football, american football
+  &     &   Golf [alias]	golf
+  &     &   Hockey [alias]	hockey
+  &     &   Motor   [alias]	motor sport, f1, formula 1, formula one, nascar, grand prix
+  &     &   Rugby [alias]	rugby
+  &     &   Soccer [alias]
+soccer
